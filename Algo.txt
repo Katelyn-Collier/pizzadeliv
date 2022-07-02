@@ -6,4 +6,11 @@ Step 5: Order the pizza.
 Step 6: Select payment method for pizza.
 Step 7: Wait for pizza to be delivered.
 Step 8: Receive pizza.
-Step 9: Enjoy your pizza!
+Step 9: Check your order.
+Step 10a: If order is correct
+          - tip the driver.
+          - leave a positive review.
+          - enjoy your pizza!
+Step 10b: If order is incorrect 
+          - notify the restaurant immediately. 
+          - wait for replacement.
