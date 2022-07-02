@@ -1,0 +1,9 @@
+Step 1: Decide which place to order pizza from.
+Step 2: Decide what size pizza you want.
+Step 3: Decide what toppings to add to pizza.
+Step 4: Call the pizza place.
+Step 5: Order the pizza.
+Step 6: Select payment method for pizza.
+Step 7: Wait for pizza to be delivered.
+Step 8: Receive pizza.
+Step 9: Enjoy your pizza!
